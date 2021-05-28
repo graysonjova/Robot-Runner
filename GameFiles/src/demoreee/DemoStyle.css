@@ -1,0 +1,40 @@
+.root {
+	-fx-background-image: url("bgNightComp.gif");
+	 -fx-background-size: 1280 720;
+	 -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+	-fx-background-color: black;
+	-fx-font-size: 12pt;
+}
+
+.label {
+	
+	-fx-text-fill: White;
+	-fx-font:30px Tahoma;
+}
+
+.button{
+	-fx-text-color:red ;
+	-fx-font: 16px Tahoma;
+	-fx-padding: 8;
+	-fx-background-color: linear-gradient(#4169e1,  #45A29E);
+	-fx-background-radius: 8;
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.6), 10, 0.5, 0.0, 0.0);
+	
+}
+
+.button:hover{
+	-fx-font: 16px Tahoma;
+	-fx-padding: 8;
+	-fx-background-color: linear-gradient(#6c89e0,  #4fa8a5);
+	-fx-background-radius: 8;
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.6), 10, 0.5, 0.0, 0.0);
+	
+}
+
+#maintitle {
+    -color: red;
+    -fx-font: 100px Courier;
+    -fx-fill: linear-gradient(#e900f5, #33fff5);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}

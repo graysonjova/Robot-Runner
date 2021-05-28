@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="GitOrigin">
+    <output-path>$PROJECT_DIR$/out/artifacts/GitOrigin</output-path>
+    <root id="root">
+      <element id="archive" name="GitOrigin.jar">
+        <element id="module-output" name="GitOrigin" />
+      </element>
+    </root>
+  </artifact>
+</component>

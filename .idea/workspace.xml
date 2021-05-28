@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="875ec43b-22f2-4e8e-b174-78ccd660f3c0" name="Default Changelist" comment="Added workspace.xml" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Final_Improvements" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sU2dor8RCgS64DzZijs1XZpWqD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/GameFiles/src/jtest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.GameMenu">
+    <configuration name="GameMenu" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demoreee.GameMenu" />
+      <module name="GitOrigin" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\danie\Desktop\javaFX\javafx-sdk-15.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoreee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demoreee.Server" />
+      <module name="GitOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoreee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameMenuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoreee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoreee" />
+      <option name="MAIN_CLASS_NAME" value="demoreee.GameMenuTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameMenuTest.testSaveFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoreee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoreee" />
+      <option name="MAIN_CLASS_NAME" value="demoreee.GameMenuTest" />
+      <option name="METHOD_NAME" value="testSaveFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoreee in GitOrigin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoreee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoreee" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameMenu" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JUnit.GameMenuTest" />
+      <item itemvalue="JUnit.GameMenuTest.testSaveFile" />
+      <item itemvalue="JUnit.demoreee in GitOrigin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameMenu" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.demoreee in GitOrigin" />
+        <item itemvalue="JUnit.GameMenuTest.testSaveFile" />
+        <item itemvalue="JUnit.GameMenuTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875ec43b-22f2-4e8e-b174-78ccd660f3c0" name="Default Changelist" comment="" />
+      <created>1620912937813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620912937813</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Made the shop more presentable">
+      <created>1621109413875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621109413876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Imported IOException and Arrays to ClientHandlerTest.java">
+      <created>1621109630217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621109630217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed a bug in the shop">
+      <created>1621186204136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621186204136</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removed junk files">
+      <created>1621254931706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621254931706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed bgm to bgMusic in GameMenu.java">
+      <created>1621256157272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621256157272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added the JavaDoc">
+      <created>1621261450808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621261450808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added workspace.xml">
+      <created>1621261546789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621261546789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made the shop more presentable" />
+    <MESSAGE value="Imported IOException and Arrays to ClientHandlerTest.java" />
+    <MESSAGE value="Fixed a bug in the shop" />
+    <MESSAGE value="removed junk files" />
+    <MESSAGE value="changed bgm to bgMusic in GameMenu.java" />
+    <MESSAGE value="Added the JavaDoc" />
+    <MESSAGE value="Added workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added workspace.xml" />
+  </component>
+</project>

@@ -1,2 +1,2 @@
-# Robot Runners
- A Java Platformer game i made
+# Robots Runner
+ A Java based platformer game
